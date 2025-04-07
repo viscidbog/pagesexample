@@ -1,3 +1,5 @@
+### Viikon 2 tehtävä:
+
 Jekyll-sivuston automatisointi GitHub Actions -toimintojen avulla onnistuu luomalla työnkulku (workflow), 
 joka käynnistyy esimerkiksi koodin pushaamisen yhteydessä. Työnkulussa määritetään vaiheita, kuten riippuvuuksien asentaminen (bundler install), 
 sivuston rakentaminen (bundle exec jekyll build) ja lopuksi valmiin sivuston julkaisu GitHub Pagesiin. Tämä mahdollistaa automaattisen julkaisun aina, 
