@@ -8,3 +8,5 @@ ja palvelimia kuten Heroku, Vercel tai AWS. Kehitystyössä suosittuja tekniikoi
 (esim. Jest, RSpec), lintterit (esim. ESLint) ja yksikkö- sekä integraatiotestit. CI
 varmistaa, että koodi toimii ennen yhdistämistä päähaaraan, ja CD julkaisee muutokset automaattisesti, 
 mikä nopeuttaa kehitystä ja parantaa laatua.
+
+[Palaa tehtävälistaan](https://viscidbog.github.io/pagesexample/)
