@@ -2,4 +2,4 @@
 
 ## Tehtäväpalautukset:
 
-[Vko 1:](vko1.html)
+[Vko 1](vko1.html)
