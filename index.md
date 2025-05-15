@@ -8,4 +8,4 @@
 ### [Vko 4](/vko4/index.html)
 ### [Vko 5](/vko5/index.html) [Toinen osa](vko5.md)
 ### [Vko 6-7](/vko6/index.html)
-### [Harjoitustyö](/Lopputyö/index.html)
+### [Harjoitustyö](/Harjoitustyö/index.html)
